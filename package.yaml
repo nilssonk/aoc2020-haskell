@@ -10,3 +10,11 @@ synopsis: Haskell solutions for Advent of Code 2020
 
 dependencies:
     - base >= 4.7 && < 5
+
+ghc-options:
+    - -Werror
+    - -Wall
+    - -Wcompat
+    - -Wincomplete-record-updates
+    - -Wincomplete-uni-patterns
+    - -Wredundant-constraints
