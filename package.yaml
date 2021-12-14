@@ -1,0 +1,12 @@
+name: aoc2020-haskell
+version: 0.1.0.0
+github: "nilssonk/aoc2020-haskell"
+license: GPL-3
+author: "Kim Nilsson"
+maintainer: "kim@wayoftao.net"
+copyright: "2021 Kim Nilsson"
+
+synopsis: Haskell solutions for Advent of Code 2020
+
+dependencies:
+    - base >= 4.7 && < 5
